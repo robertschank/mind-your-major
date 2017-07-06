@@ -1,0 +1,41 @@
+/*
+Theme Name: Alizee
+Layout: Two columns
+*/
+
+.home .hentry {
+	width: 540px;
+}
+
+@media only screen and (max-width: 1199px) {
+	.home .hentry {
+		width: 440px;
+	}	
+}
+@media only screen and (max-width: 991px) {
+	.home .hentry {
+		width: 330px;
+	}
+}
+@media only screen and (max-width: 749px) {
+	.home .hentry {
+		width: 440px;
+		margin-right: 0;
+	}
+}
+@media only screen and (max-width: 499px) {
+	.home .hentry {
+		width: 340px;
+	}
+}
+@media only screen and (max-width: 399px) {
+	.home .hentry {
+		width: 290px;
+		padding: 15px;
+	}
+}
+@media only screen and (max-width: 319px) {
+	.home .hentry {
+		width: 210px;
+	}
+}

@@ -1,0 +1,1703 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wds\n"
+"POT-Creation-Date: 2017-06-22 13:27+0400\n"
+"PO-Revision-Date: 2017-06-22 13:27+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/views/WDSViewGoptions_wds.php:27
+#: admin/views/WDSViewSliders_wds.php:290
+msgid "Lighter"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:28
+#: admin/views/WDSViewSliders_wds.php:291
+msgid "Normal"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:29
+#: admin/views/WDSViewSliders_wds.php:292
+msgid "Bold"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:32
+#: admin/views/WDSViewGoptions_wds.php:73
+#: admin/views/WDSViewSliders_wds.php:264
+#: admin/views/WDSViewSliders_wds.php:303
+#: admin/views/WDSViewSliders_wds.php:334
+#: admin/views/WDSViewSliders_wds.php:381 slider-wd.php:620
+msgid "None"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:33
+#: admin/views/WDSViewGoptions_wds.php:74
+#: admin/views/WDSViewSliders_wds.php:335
+#: admin/views/WDSViewSliders_wds.php:382 slider-wd.php:621
+msgid "Bounce"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:34
+#: admin/views/WDSViewGoptions_wds.php:75
+#: admin/views/WDSViewSliders_wds.php:339
+#: admin/views/WDSViewSliders_wds.php:386 slider-wd.php:625
+msgid "Flash"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:35
+#: admin/views/WDSViewGoptions_wds.php:76
+#: admin/views/WDSViewSliders_wds.php:340
+#: admin/views/WDSViewSliders_wds.php:387 slider-wd.php:626
+msgid "Pulse"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:36
+#: admin/views/WDSViewGoptions_wds.php:77
+#: admin/views/WDSViewGoptions_wds.php:102
+#: admin/views/WDSViewSliders_wds.php:341
+#: admin/views/WDSViewSliders_wds.php:388 slider-wd.php:627
+msgid "RubberBand"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:37
+#: admin/views/WDSViewGoptions_wds.php:78
+#: admin/views/WDSViewSliders_wds.php:342
+#: admin/views/WDSViewSliders_wds.php:389 slider-wd.php:628
+msgid "Shake"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:38
+#: admin/views/WDSViewGoptions_wds.php:79
+#: admin/views/WDSViewSliders_wds.php:343
+#: admin/views/WDSViewSliders_wds.php:390 slider-wd.php:629
+msgid "Swing"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:39
+#: admin/views/WDSViewGoptions_wds.php:80
+#: admin/views/WDSViewSliders_wds.php:336
+#: admin/views/WDSViewSliders_wds.php:383 slider-wd.php:622 slider-wd.php:659
+msgid "Tada"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:40
+#: admin/views/WDSViewGoptions_wds.php:81
+#: admin/views/WDSViewSliders_wds.php:344
+#: admin/views/WDSViewSliders_wds.php:391 slider-wd.php:630
+msgid "Wobble"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:41
+#: admin/views/WDSViewGoptions_wds.php:82
+#: admin/views/WDSViewSliders_wds.php:345
+#: admin/views/WDSViewSliders_wds.php:392 slider-wd.php:631
+msgid "Hinge"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:42
+#: admin/views/WDSViewSliders_wds.php:347 slider-wd.php:632
+msgid "LightSpeedIn"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:43
+#: admin/views/WDSViewSliders_wds.php:348 slider-wd.php:633
+msgid "RollIn"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:44
+#: admin/views/WDSViewSliders_wds.php:350 slider-wd.php:634
+msgid "BounceIn"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:45
+#: admin/views/WDSViewSliders_wds.php:337 slider-wd.php:623
+msgid "BounceInDown"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:46
+#: admin/views/WDSViewSliders_wds.php:351 slider-wd.php:635
+msgid "BounceInLeft"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:47
+#: admin/views/WDSViewSliders_wds.php:352 slider-wd.php:636
+msgid "BounceInRight"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:48
+#: admin/views/WDSViewSliders_wds.php:353 slider-wd.php:637
+msgid "BounceInUp"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:49
+#: admin/views/WDSViewSliders_wds.php:355 slider-wd.php:638
+msgid "FadeIn"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:50
+#: admin/views/WDSViewSliders_wds.php:356 slider-wd.php:639
+msgid "FadeInDown"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:51
+#: admin/views/WDSViewSliders_wds.php:357 slider-wd.php:640
+msgid "FadeInDownBig"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:52
+#: admin/views/WDSViewSliders_wds.php:338 slider-wd.php:624
+msgid "FadeInLeft"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:53
+#: admin/views/WDSViewSliders_wds.php:358 slider-wd.php:641
+msgid "FadeInLeftBig"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:54
+#: admin/views/WDSViewSliders_wds.php:359 slider-wd.php:642
+msgid "FadeInRight"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:55
+#: admin/views/WDSViewSliders_wds.php:360 slider-wd.php:643
+msgid "FadeInRightBig"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:56
+#: admin/views/WDSViewSliders_wds.php:361 slider-wd.php:644
+msgid "FadeInUp"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:57
+#: admin/views/WDSViewSliders_wds.php:362 slider-wd.php:645
+msgid "FadeInUpBig"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:58
+#: admin/views/WDSViewGoptions_wds.php:99
+#: admin/views/WDSViewSliders_wds.php:364
+#: admin/views/WDSViewSliders_wds.php:411 slider-wd.php:646 slider-wd.php:676
+msgid "Flip"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:59
+#: admin/views/WDSViewSliders_wds.php:365 slider-wd.php:647
+msgid "FlipInX"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:60
+#: admin/views/WDSViewSliders_wds.php:366 slider-wd.php:648
+msgid "FlipInY"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:61
+#: admin/views/WDSViewSliders_wds.php:368 slider-wd.php:649
+msgid "RotateIn"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:62
+#: admin/views/WDSViewSliders_wds.php:369 slider-wd.php:650
+msgid "RotateInDownLeft"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:63
+#: admin/views/WDSViewSliders_wds.php:370 slider-wd.php:651
+msgid "RotateInDownRight"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:64
+#: admin/views/WDSViewSliders_wds.php:371 slider-wd.php:652
+msgid "RotateInUpLeft"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:65
+#: admin/views/WDSViewSliders_wds.php:372 slider-wd.php:653
+msgid "RotateInUpRight"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:66
+#: admin/views/WDSViewSliders_wds.php:374 slider-wd.php:654
+msgid "ZoomIn"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:67
+#: admin/views/WDSViewSliders_wds.php:375 slider-wd.php:655
+msgid "ZoomInDown"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:68
+#: admin/views/WDSViewSliders_wds.php:376 slider-wd.php:656
+msgid "ZoomInLeft"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:69
+#: admin/views/WDSViewSliders_wds.php:377 slider-wd.php:657
+msgid "ZoomInRight"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:70
+#: admin/views/WDSViewSliders_wds.php:378 slider-wd.php:658
+msgid "ZoomInUp"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:83
+#: admin/views/WDSViewSliders_wds.php:394 slider-wd.php:662
+msgid "LightSpeedOut"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:84
+#: admin/views/WDSViewSliders_wds.php:395 slider-wd.php:663
+msgid "RollOut"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:85
+#: admin/views/WDSViewSliders_wds.php:397 slider-wd.php:664
+msgid "BounceOut"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:86
+#: admin/views/WDSViewSliders_wds.php:398 slider-wd.php:665
+msgid "BounceOutDown"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:87
+#: admin/views/WDSViewSliders_wds.php:399 slider-wd.php:666
+msgid "BounceOutLeft"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:88
+#: admin/views/WDSViewSliders_wds.php:400 slider-wd.php:667
+msgid "BounceOutRight"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:89
+#: admin/views/WDSViewSliders_wds.php:384 slider-wd.php:660
+msgid "BounceOutUp"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:90
+#: admin/views/WDSViewSliders_wds.php:402 slider-wd.php:668
+msgid "FadeOut"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:91
+#: admin/views/WDSViewSliders_wds.php:403 slider-wd.php:669
+msgid "FadeOutDown"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:92
+#: admin/views/WDSViewSliders_wds.php:404 slider-wd.php:670
+msgid "FadeOutDownBig"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:93
+#: admin/views/WDSViewSliders_wds.php:405 slider-wd.php:671
+msgid "FadeOutLeft"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:94
+#: admin/views/WDSViewSliders_wds.php:406 slider-wd.php:672
+msgid "FadeOutLeftBig"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:95
+#: admin/views/WDSViewSliders_wds.php:385 slider-wd.php:661
+msgid "FadeOutRight"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:96
+#: admin/views/WDSViewSliders_wds.php:407 slider-wd.php:673
+msgid "FadeOutRightBig"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:97
+#: admin/views/WDSViewSliders_wds.php:408 slider-wd.php:674
+msgid "FadeOutUp"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:98
+#: admin/views/WDSViewSliders_wds.php:409 slider-wd.php:675
+msgid "FadeOutUpBig"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:100
+#: admin/views/WDSViewSliders_wds.php:412 slider-wd.php:677
+msgid "FlipOutX"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:101
+#: admin/views/WDSViewSliders_wds.php:413 slider-wd.php:678
+msgid "FlipOutY"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:103
+#: admin/views/WDSViewSliders_wds.php:416 slider-wd.php:680
+msgid "RotateOutDownLeft"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:104
+#: admin/views/WDSViewSliders_wds.php:417 slider-wd.php:681
+msgid "RotateOutDownRight"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:105
+#: admin/views/WDSViewSliders_wds.php:418 slider-wd.php:682
+msgid "RotateOutUpLeft"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:106
+#: admin/views/WDSViewSliders_wds.php:419 slider-wd.php:683
+msgid "RotateOutUpRight"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:107
+#: admin/views/WDSViewSliders_wds.php:421 slider-wd.php:684
+msgid "ZoomOut"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:108
+#: admin/views/WDSViewSliders_wds.php:422 slider-wd.php:685
+msgid "ZoomOutDown"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:109
+#: admin/views/WDSViewSliders_wds.php:423 slider-wd.php:686
+msgid "ZoomOutLeft"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:110
+#: admin/views/WDSViewSliders_wds.php:424 slider-wd.php:687
+msgid "ZoomOutRight"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:111
+#: admin/views/WDSViewSliders_wds.php:425 slider-wd.php:688
+msgid "ZoomOutUp"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:116
+msgid "Loading default"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:117
+msgid "Loading1"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:118
+msgid "Loading2"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:119
+msgid "Loading3"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:120
+msgid "Loading4"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:121
+msgid "Loading5"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:221 slider-wd.php:561
+msgid "Google fonts"
+msgstr ""
+
+#: admin/views/WDSViewGoptions_wds.php:251 slider-wd.php:579
+msgid "Start"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:34 slider-wd.php:52
+msgid "Sliders"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:35 admin/views/WDSViewSliders_wds.php:255
+#: slider-wd.php:572
+msgid "This functionality is disabled in free version."
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:36 admin/views/WDSViewSliders_wds.php:256
+msgid "This option is disabled in free version."
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:38
+msgid "Publish"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:39
+msgid "Unpublish"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:40 slider-wd.php:599
+msgid "Delete"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:41
+msgid "Duplicate"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:42
+msgid "Export"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:43
+msgid "Merge"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:112
+msgid "Name"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:259
+#: admin/views/WDSViewSliders_wds.php:440
+msgid "Left"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:260
+#: admin/views/WDSViewSliders_wds.php:439
+msgid "Center"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:261
+#: admin/views/WDSViewSliders_wds.php:441
+msgid "Right"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:265
+msgid "Solid"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:266
+msgid "Dotted"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:267
+msgid "Dashed"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:268
+#: admin/views/WDSViewSliders_wds.php:277
+msgid "Double"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:269
+msgid "Groove"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:270
+msgid "Ridge"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:271
+msgid "Inset"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:272
+msgid "Outset"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:275
+msgid "Chevron"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:276
+msgid "Angle"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:280
+msgid "Circle O"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:281
+msgid "Circle"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:282
+msgid "Minus"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:283
+msgid "Square O"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:284
+msgid "Square"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:295
+msgid "Facebook"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:296
+msgid "Google+"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:297
+msgid "Twitter"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:298
+msgid "Pinterest"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:299
+msgid "Tumblr"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:304
+msgid "Fade"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:305
+msgid "Slice Horizontal"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:306
+msgid "Fan"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:307
+msgid "Scale In"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:308
+msgid "Zoom Fade"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:309
+msgid "Parallel Slide Horizontal"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:310
+msgid "Parallel Slide Vertical"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:311
+msgid "Slice 3D Horizontal"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:312
+msgid "Slice 3D Vertical"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:313
+msgid "Slice 3D Horizontal Random"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:314
+msgid "Slice 3D Vertical Random"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:315
+msgid "Blind"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:316
+msgid "Tiles"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:317
+msgid "Block Scale Random"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:318
+msgid "Cube Horizontal"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:319
+msgid "Cube Vertical"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:320
+msgid "Cube Random"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:321
+msgid "Slice Vertical"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:322
+msgid "Slide Horizontal"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:323
+msgid "Slide Vertical"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:324
+msgid "Scale Out"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:325
+msgid "Block Scale"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:326
+msgid "Kaleidoscope"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:327
+msgid "Blind Horizontal"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:328
+msgid "Blind Vertical"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:329
+msgid "Random"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:330
+msgid "3D Random"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:415 slider-wd.php:679
+msgid "RotateOut"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:428
+msgid "On slider Init"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:429
+msgid "On slide change start"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:430
+msgid "On slide change end"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:431
+msgid "On slide play"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:432
+msgid "On slide pause"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:433
+msgid "On slide hover"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:434
+msgid "On slide blur"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:435
+msgid "On slider resize"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:436
+msgid "On swipe start"
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:456
+msgid "Some options are disabled in free version."
+msgstr ""
+
+#: admin/views/WDSViewSliders_wds.php:752
+#: admin/views/WDSViewSliders_wds.php:2576
+#: admin/views/WDSViewSliders_wds.php:2608
+#: admin/views/WDSViewSliders_wds.php:2809
+#: admin/views/WDSViewSliders_wds.php:2841
+#: admin/views/WDSViewSliders_wds.php:3026
+msgid "This effect is disabled in free version."
+msgstr ""
+
+#: admin/views/WDSViewUninstall_wds.php:36
+msgid "support team"
+msgstr ""
+
+#: admin/views/WDSViewUninstall_wds.php:37
+msgid "Contact us"
+msgstr ""
+
+#: admin/views/WDSViewUninstall_wds.php:38
+#, php-format
+msgid ""
+"Before uninstalling the plugin, please Contact our %s. We'll do our best to "
+"help you out with your issue. We value each and every user and value what's "
+"right for our users in everything we do.<br />\n"
+"          However, if anyway you have made a decision to uninstall the "
+"plugin, please take a minute to %s and tell what you didn't like for our "
+"plugins further improvement and development. Thank you !!!"
+msgstr ""
+
+#: filemanager/controller.php:68
+msgid "Directory already exists."
+msgstr ""
+
+#: filemanager/controller.php:116
+msgid "File doesn't exist."
+msgstr ""
+
+#: filemanager/controller.php:120 filemanager/controller.php:126
+#: filemanager/controller.php:132
+msgid "Can't rename the file."
+msgstr ""
+
+#: filemanager/controller.php:172
+msgid "Some of the files couldn't be removed."
+msgstr ""
+
+#: filemanager/controller.php:230 filemanager/controller.php:260
+msgid "Failed to copy some of the files."
+msgstr ""
+
+#: filemanager/controller.php:288
+msgid "Failed to move some of the files."
+msgstr ""
+
+#: filemanager/view.php:149
+msgid "Order by:"
+msgstr ""
+
+#: framework/WDW_S_Library.php:45
+msgid "Item Succesfully Saved."
+msgstr ""
+
+#: framework/WDW_S_Library.php:51
+msgid "Error. Please install plugin again."
+msgstr ""
+
+#: framework/WDW_S_Library.php:57
+msgid "Item Succesfully Deleted."
+msgstr ""
+
+#: framework/WDW_S_Library.php:63
+msgid "You can't delete default theme"
+msgstr ""
+
+#: framework/WDW_S_Library.php:69
+msgid "Items Succesfully Deleted."
+msgstr ""
+
+#: framework/WDW_S_Library.php:75 slider-wd.php:614
+msgid "You must select at least one item."
+msgstr ""
+
+#: framework/WDW_S_Library.php:81
+msgid "The item is successfully set as default."
+msgstr ""
+
+#: framework/WDW_S_Library.php:87
+msgid "Options Succesfully Saved."
+msgstr ""
+
+#: framework/WDW_S_Library.php:93
+msgid "Item Succesfully Published."
+msgstr ""
+
+#: framework/WDW_S_Library.php:99
+msgid "Items Succesfully Published."
+msgstr ""
+
+#: framework/WDW_S_Library.php:105
+msgid "Item Succesfully Unpublished."
+msgstr ""
+
+#: framework/WDW_S_Library.php:111
+msgid "Items Succesfully Unpublished."
+msgstr ""
+
+#: framework/WDW_S_Library.php:117
+msgid "Ordering Succesfully Saved."
+msgstr ""
+
+#: framework/WDW_S_Library.php:123
+msgid "A term with the name provided already exists."
+msgstr ""
+
+#: framework/WDW_S_Library.php:129
+msgid "Name field is required."
+msgstr ""
+
+#: framework/WDW_S_Library.php:135
+msgid "The slug must be unique."
+msgstr ""
+
+#: framework/WDW_S_Library.php:141
+msgid "Changes must be saved."
+msgstr ""
+
+#: framework/WDW_S_Library.php:147 slider-wd.php:528 slider-wd.php:613
+msgid "You must set watermark type."
+msgstr ""
+
+#: framework/WDW_S_Library.php:153 slider-wd.php:529
+msgid "Watermark Succesfully Set."
+msgstr ""
+
+#: framework/WDW_S_Library.php:159 slider-wd.php:530
+msgid "Watermark Succesfully Reset."
+msgstr ""
+
+#: framework/WDW_S_Library.php:165
+msgid "Settings Succesfully Reset."
+msgstr ""
+
+#: framework/WDW_S_Library.php:326 framework/WDW_S_Library.php:462
+#: slider-wd.php:535
+msgid "s"
+msgstr ""
+
+#: framework/WDW_S_Library.php:587
+#, php-format
+msgid "No %s found."
+msgstr ""
+
+#: frontend/views/WDSViewSlider.php:45
+msgid "There is no slider selected or the slider was deleted."
+msgstr ""
+
+#: frontend/views/WDSViewSlider.php:62
+msgid "There are no slides in this slider."
+msgstr ""
+
+#: frontend/views/WDSViewSlider.php:2059 frontend/views/WDSViewSlider.php:2155
+msgid "Pause"
+msgstr ""
+
+#: frontend/views/WDSViewSlider.php:2091
+msgid "Play"
+msgstr ""
+
+#: slider-wd.php:49 slider-wd.php:773 slider-wd.php:841
+msgid "Slider WD"
+msgstr ""
+
+#: slider-wd.php:56
+msgid "Global Options"
+msgstr ""
+
+#: slider-wd.php:60
+msgid "Get Pro"
+msgstr ""
+
+#: slider-wd.php:62
+msgid "Demo Sliders"
+msgstr ""
+
+#: slider-wd.php:64
+msgid "Uninstall"
+msgstr ""
+
+#: slider-wd.php:531
+msgid "Items Succesfully Saved."
+msgstr ""
+
+#: slider-wd.php:532
+msgid "Changes made in this table should be saved."
+msgstr ""
+
+#: slider-wd.php:533
+msgid "Selected"
+msgstr ""
+
+#: slider-wd.php:534
+msgid "item"
+msgstr ""
+
+#: slider-wd.php:536
+msgid "You must select an image file"
+msgstr ""
+
+#: slider-wd.php:537
+msgid "You must select an audio file."
+msgstr ""
+
+#: slider-wd.php:538
+msgid "Album thumb dimensions:"
+msgstr ""
+
+#: slider-wd.php:539
+msgid "Album thumb width:"
+msgstr ""
+
+#: slider-wd.php:540
+msgid "Drag to re-order"
+msgstr ""
+
+#: slider-wd.php:541
+msgid "Delete layer"
+msgstr ""
+
+#: slider-wd.php:542
+msgid "Layer title"
+msgstr ""
+
+#: slider-wd.php:543
+msgid "Duplicate layer"
+msgstr ""
+
+#: slider-wd.php:544
+msgid "Text: "
+msgstr ""
+
+#: slider-wd.php:545
+msgid "Sample text "
+msgstr ""
+
+#: slider-wd.php:546
+msgid "Dimensions:"
+msgstr ""
+
+#: slider-wd.php:547
+msgid "Break word"
+msgstr ""
+
+#: slider-wd.php:548
+msgid "Set the HTML attribute specified in the IMG tag."
+msgstr ""
+
+#: slider-wd.php:549
+msgid "Use http:// and https:// for external links."
+msgstr ""
+
+#: slider-wd.php:550
+msgid "Link:"
+msgstr ""
+
+#: slider-wd.php:551
+msgid "Open in a new window"
+msgstr ""
+
+#: slider-wd.php:552
+msgid "In addition you can drag and drop the layer to a desired position."
+msgstr ""
+
+#: slider-wd.php:553
+msgid "Position:"
+msgstr ""
+
+#: slider-wd.php:554
+msgid "Fixed step (left, center, right)"
+msgstr ""
+
+#: slider-wd.php:555
+msgid "Published"
+msgstr ""
+
+#: slider-wd.php:556 wd/includes/overview.php:233 wd/includes/overview.php:240
+#: wd/includes/overview.php:247 wd/includes/overview.php:257
+msgid "Yes"
+msgstr ""
+
+#: slider-wd.php:557 wd/includes/overview.php:235 wd/includes/overview.php:242
+#: wd/includes/overview.php:249 wd/includes/overview.php:252
+#: wd/includes/overview.php:257
+msgid "No"
+msgstr ""
+
+#: slider-wd.php:558
+msgid "Color:"
+msgstr ""
+
+#: slider-wd.php:559
+msgid "Hover Color:"
+msgstr ""
+
+#: slider-wd.php:560
+msgid "Font family:"
+msgstr ""
+
+#: slider-wd.php:562
+msgid "Default"
+msgstr ""
+
+#: slider-wd.php:563
+msgid "Font weight:"
+msgstr ""
+
+#: slider-wd.php:564
+msgid "Use CSS type values."
+msgstr ""
+
+#: slider-wd.php:565
+msgid "Padding:"
+msgstr ""
+
+#: slider-wd.php:566
+msgid "Background Color:"
+msgstr ""
+
+#: slider-wd.php:567
+msgid "Transparent:"
+msgstr ""
+
+#: slider-wd.php:568
+msgid "Value must be between 0 to 100."
+msgstr ""
+
+#: slider-wd.php:569
+msgid "Border:"
+msgstr ""
+
+#: slider-wd.php:570
+msgid "Radius:"
+msgstr ""
+
+#: slider-wd.php:571
+msgid "Use CSS type values (e.g. 10px 10px 5px #888888)."
+msgstr ""
+
+#: slider-wd.php:573
+msgid "Set width and height of the image."
+msgstr ""
+
+#: slider-wd.php:574
+msgid "Social button:"
+msgstr ""
+
+#: slider-wd.php:575
+msgid "Effect:"
+msgstr ""
+
+#: slider-wd.php:576
+msgid "Effect in:"
+msgstr ""
+
+#: slider-wd.php:577
+msgid "Effect out:"
+msgstr ""
+
+#: slider-wd.php:578
+msgid "ms"
+msgstr ""
+
+#: slider-wd.php:580
+msgid "Duration"
+msgstr ""
+
+#: slider-wd.php:581
+msgid "Iteration"
+msgstr ""
+
+#: slider-wd.php:582
+msgid "Some effects are disabled in free version."
+msgstr ""
+
+#: slider-wd.php:583
+msgid "0 for play infinte times"
+msgstr ""
+
+#: slider-wd.php:584
+msgid "iteration"
+msgstr ""
+
+#: slider-wd.php:585
+msgid "Scale"
+msgstr ""
+
+#: slider-wd.php:586
+msgid "Add class"
+msgstr ""
+
+#: slider-wd.php:587
+msgid "Static layer:"
+msgstr ""
+
+#: slider-wd.php:588
+msgid "The layer will be visible on all slides."
+msgstr ""
+
+#: slider-wd.php:589
+msgid "Add/Edit Image"
+msgstr ""
+
+#: slider-wd.php:590
+msgid "Add image layer"
+msgstr ""
+
+#: slider-wd.php:591
+msgid "Edit Thumbnail"
+msgstr ""
+
+#: slider-wd.php:592
+msgid "Duplicate slide"
+msgstr ""
+
+#: slider-wd.php:593
+msgid "Delete slide"
+msgstr ""
+
+#: slider-wd.php:594
+msgid "Add Image by URL"
+msgstr ""
+
+#: slider-wd.php:595
+msgid "Embed media"
+msgstr ""
+
+#: slider-wd.php:596
+msgid "Image"
+msgstr ""
+
+#: slider-wd.php:597
+msgid "Add post"
+msgstr ""
+
+#: slider-wd.php:598
+msgid "Add video"
+msgstr ""
+
+#: slider-wd.php:600
+msgid "Link the slide to:"
+msgstr ""
+
+#: slider-wd.php:601
+msgid "Add text layer"
+msgstr ""
+
+#: slider-wd.php:602
+msgid "Add video layer"
+msgstr ""
+
+#: slider-wd.php:603
+msgid "Embed media layer"
+msgstr ""
+
+#: slider-wd.php:604
+msgid "Add social buttons layer"
+msgstr ""
+
+#: slider-wd.php:605
+msgid "Add Hotspot Layer"
+msgstr ""
+
+#: slider-wd.php:606
+msgid "The thumbnail size must be between 0 to 1."
+msgstr ""
+
+#: slider-wd.php:607
+msgid "Remove"
+msgstr ""
+
+#: slider-wd.php:608
+msgid "Minimal size must be less than the actual size."
+msgstr ""
+
+#: slider-wd.php:609
+msgid "Size:"
+msgstr ""
+
+#: slider-wd.php:610
+msgid "Text alignment:"
+msgstr ""
+
+#: slider-wd.php:611
+msgid "Do you want to delete selected items?"
+msgstr ""
+
+#: slider-wd.php:612
+msgid "Are you sure you want to reset the settings?"
+msgstr ""
+
+#: slider-wd.php:615
+msgid "Do you want to delete slide?"
+msgstr ""
+
+#: slider-wd.php:616
+msgid "Choose Image"
+msgstr ""
+
+#: slider-wd.php:617
+msgid ""
+"You can set a redirection link, so that the user will get to the mentioned "
+"location upon hitting the slide. Use http:// and https:// for external links."
+msgstr ""
+
+#: slider-wd.php:618
+msgid "Insert"
+msgstr ""
+
+#: slider-wd.php:619
+msgid "Color"
+msgstr ""
+
+#: slider-wd.php:778
+msgid ""
+"Slider WD is a responsive plugin, which allows adding sliders to your posts/"
+"pages and to custom location. It uses large number of transition effects and "
+"supports various types of layers."
+msgstr ""
+
+#: slider-wd.php:782
+msgid "Responsive"
+msgstr ""
+
+#: slider-wd.php:783
+msgid ""
+"Sleek, powerful and intuitive design and layout brings the slides on a new "
+"level, for perfect and fast web surfing. Ways that users interact with 100% "
+"responsive Slider WD guarantees better and brave experience."
+msgstr ""
+
+#: slider-wd.php:786
+msgid "SEO Friendly"
+msgstr ""
+
+#: slider-wd.php:787
+msgid ""
+"Slider WD has developed the best practices in SEO field. The plugin supports "
+"all functions necessary for top-rankings."
+msgstr ""
+
+#: slider-wd.php:790
+msgid "Drag & Drop Back-End Interface"
+msgstr ""
+
+#: slider-wd.php:791
+msgid ""
+"Arrange each and every layer via user friendly drag and drop interface in "
+"seconds. This function guarantees fast and effective usability of the plugin "
+"without any development skills."
+msgstr ""
+
+#: slider-wd.php:794
+msgid "Touch Swipe Navigation"
+msgstr ""
+
+#: slider-wd.php:795
+msgid ""
+"Touch the surface of your mobile devices and experience smooth finger "
+"navigation. In desktop devices you can experience the same navigation using "
+"mouse dragging."
+msgstr ""
+
+#: slider-wd.php:798
+msgid "Navigation Custom Buttons"
+msgstr ""
+
+#: slider-wd.php:799
+msgid ""
+"You can choose among variety of navigation button designs included in the "
+"plugin or upload and use your custom ones, based on preferences."
+msgstr ""
+
+#: slider-wd.php:805
+msgid "Installing the Slider WD"
+msgstr ""
+
+#: slider-wd.php:810
+msgid "Adding Images to Sliders"
+msgstr ""
+
+#: slider-wd.php:815
+msgid "Adding Layers to The Slide"
+msgstr ""
+
+#: slider-wd.php:820
+msgid "Changing/Modifying Slider Settings"
+msgstr ""
+
+#: slider-wd.php:825
+msgid "Publishing the Created Slider"
+msgstr ""
+
+#: slider-wd.php:830
+msgid "Importing/Exporting Sliders"
+msgstr ""
+
+#: slider-wd.php:952
+#, php-format
+msgid "This section allows you to %s."
+msgstr ""
+
+#: slider-wd.php:960
+msgid "Upgrade to paid version"
+msgstr ""
+
+#: wd/includes/deactivate.php:35
+msgid "Technical problems / hard to use"
+msgstr ""
+
+#: wd/includes/deactivate.php:39
+msgid "Free version is limited"
+msgstr ""
+
+#: wd/includes/deactivate.php:43
+msgid "Premium is expensive"
+msgstr ""
+
+#: wd/includes/deactivate.php:47
+msgid "Upgrading to paid version"
+msgstr ""
+
+#: wd/includes/deactivate.php:51
+msgid "Temporary deactivation"
+msgstr ""
+
+#: wd/includes/notices.php:211
+msgid "Leave A Review?"
+msgstr ""
+
+#: wd/includes/notices.php:212
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+
+#: wd/includes/notices.php:213
+msgid "Sure! I'd love to!"
+msgstr ""
+
+#: wd/includes/notices.php:214
+msgid "I've already left a review"
+msgstr ""
+
+#: wd/includes/notices.php:215
+msgid "Maybe Later"
+msgstr ""
+
+#: wd/includes/notices.php:216
+msgid "Never show again"
+msgstr ""
+
+#: wd/includes/overview.php:27
+msgid "Welcome"
+msgstr ""
+
+#: wd/includes/overview.php:31
+msgid "User Guide"
+msgstr ""
+
+#: wd/includes/overview.php:35
+msgid "Deals"
+msgstr ""
+
+#: wd/includes/overview.php:39
+msgid "Support"
+msgstr ""
+
+#: wd/includes/overview.php:43
+msgid "Submit Your  Idea"
+msgstr ""
+
+#: wd/includes/overview.php:47
+msgid "Forum"
+msgstr ""
+
+#: wd/includes/overview.php:79
+msgid "Wordpress form builder plugin"
+msgstr ""
+
+#: wd/includes/overview.php:80
+msgid ""
+"Form Maker is a modern and advanced tool for creating WordPress forms easily "
+"and fast."
+msgstr ""
+
+#: wd/includes/overview.php:85
+msgid "WordPress Photo Gallery plugin"
+msgstr ""
+
+#: wd/includes/overview.php:86
+msgid ""
+"Photo Gallery is a fully responsive WordPress Gallery plugin with advanced "
+"functionality."
+msgstr ""
+
+#: wd/includes/overview.php:91
+msgid "WordPress calendar plugin"
+msgstr ""
+
+#: wd/includes/overview.php:92
+msgid ""
+"Organize and publish your events in an easy and elegant way using Event "
+"Calendar WD."
+msgstr ""
+
+#: wd/includes/overview.php:97
+msgid "WD Google Maps plugin"
+msgstr ""
+
+#: wd/includes/overview.php:98
+msgid ""
+"Google Maps WD is an intuitive tool for creating Google maps with advanced "
+"markers, custom layers and overlays for   your website."
+msgstr ""
+
+#: wd/includes/overview.php:103
+msgid "WordPress slider plugin"
+msgstr ""
+
+#: wd/includes/overview.php:104
+msgid ""
+"Create responsive, highly configurable sliders with various effects for your "
+"WordPress site."
+msgstr ""
+
+#: wd/includes/overview.php:109
+msgid "WordPress event calendar plugin"
+msgstr ""
+
+#: wd/includes/overview.php:110
+msgid ""
+"Spider Event Calendar is a highly configurable product which allows you to "
+"have multiple organized events."
+msgstr ""
+
+#: wd/includes/overview.php:115
+msgid "WordPress Instagram Feed plugin"
+msgstr ""
+
+#: wd/includes/overview.php:116
+msgid ""
+"WD Instagram Feed is a user-friendly tool for displaying user or hashtag-"
+"based feeds on your website."
+msgstr ""
+
+#: wd/includes/overview.php:168
+msgid "Not set"
+msgstr ""
+
+#: wd/includes/overview.php:173 wd/includes/overview.php:180
+msgid "On"
+msgstr ""
+
+#: wd/includes/overview.php:175 wd/includes/overview.php:182
+msgid "Off"
+msgstr ""
+
+#: wd/includes/overview.php:191 wd/includes/overview.php:199
+#: wd/includes/overview.php:206 wd/includes/overview.php:213
+#: wd/includes/overview.php:221 wd/includes/overview.php:228
+msgid "N/A"
+msgstr ""
+
+#: wd/includes/overview.php:226
+msgid " MByte"
+msgstr ""
+
+#: wd/includes/subscribe.php:43
+msgid "Your name &"
+msgstr ""
+
+#: wd/includes/subscribe.php:44
+msgid "Email address"
+msgstr ""
+
+#: wd/includes/subscribe.php:48
+msgid "Site URL"
+msgstr ""
+
+#: wd/includes/subscribe.php:49
+msgid "Wordpress version"
+msgstr ""
+
+#: wd/includes/subscribe.php:53
+msgid "List of plugins"
+msgstr ""
+
+#: wd/templates/display_overview.php:6
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: wd/templates/display_overview.php:8
+#, php-format
+msgid "CONGRATS! You've successfully installed %s WordPress plugin."
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:12
+#, php-format
+msgid "Get %s"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:13
+msgid "plugins"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:14
+#: wd/templates/display_overview_deals.php:65
+msgid "for"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:14
+#: wd/templates/display_overview_deals.php:65
+msgid "only"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:16
+msgid "Save 80%"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:64
+msgid "Get all 11 themes"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:67
+msgid "Save 70%"
+msgstr ""
+
+#: wd/templates/display_overview_support.php:3
+#, php-format
+msgid ""
+"You may contact us by filling in this form or by email %s any time you need "
+"professional support or have any questions. You can also fill in the form to "
+"leave your comments or feedback."
+msgstr ""
+
+#: wd/templates/display_subscribe.php:11
+#, php-format
+msgid ""
+"Allow %s to collect some usage data. This will allow  you to get more out of "
+"your plugin experience – get awesome customer support, receive exclusive "
+"deals and discounts on  premium products and more. You can choose to skip "
+"this step, %s will still work just fine."
+msgstr ""
+
+#: wd/wd.php:72
+msgid "Overview"
+msgstr ""
+
+#~ msgid "Share on Tumblr"
+#~ msgstr "Tumblr Share on"
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Bu, geçerli bir e-posta adresi değil."
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Aramanızı eşleşen görüntü yok."
+
+#~ msgid "First"
+#~ msgstr "İlk"
+
+#~ msgid "Previous"
+#~ msgstr "Önceki"
+
+#~ msgid "Next"
+#~ msgstr "Sonraki"
+
+#~ msgid "Last"
+#~ msgstr "Son"
+
+#~ msgid "Go to the first page"
+#~ msgstr "İlk sayfaya git"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Önceki sayfaya git"
+
+#~ msgid "of"
+#~ msgstr "arasında"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Bir sonraki sayfaya gitmek"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Son sayfaya gidin"
+
+#~ msgid "Reset"
+#~ msgstr "Sıfırlayın"
+
+#~ msgid "Search"
+#~ msgstr "Ara"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Orada seçilmiş hiçbir tema veya tema silindi."
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Orada seçilmiş bir albüm veya albüm silindi."
+
+#~ msgid "Back"
+#~ msgstr "Geri"
+
+#~ msgid "Album is empty."
+#~ msgstr "Albüm boş"
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Galeri boş."
+
+#~ msgid "More"
+#~ msgstr "Daha"
+
+#~ msgid "Hide"
+#~ msgstr "Gizle"
+
+#~ msgid "Show comments"
+#~ msgstr "Yorumları göster."
+
+#~ msgid "The image has been deleted."
+#~ msgstr "Resim silindi"
+
+#~ msgid "Maximize"
+#~ msgstr "Özdeyiş"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Fullscreen"
+
+#~ msgid "Show info"
+#~ msgstr "Bilgi göster"
+
+#~ msgid "Show rating"
+#~ msgstr "Derece Show"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Orijinal boyutunda açık görüntüsü. "
+
+#~ msgid "Download original image"
+#~ msgstr "Orijinal resim dosyasını indirin"
+
+#~ msgid "Hits: "
+#~ msgstr "Hits: "
+
+#~ msgid "Rated."
+#~ msgstr "Anma."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Henüz değerlendirilmedi. "
+
+#~ msgid "Votes: "
+#~ msgstr "Oy: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Puanınızı iptal. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Zaten puan var. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Hatası. Yanlış Doğrulama Kodu. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Yorumlar gizle"
+
+#~ msgid "Email"
+#~ msgstr "E-posta "
+
+#~ msgid "Comment"
+#~ msgstr "Yorum"
+
+#~ msgid "Verification Code"
+#~ msgstr "doğrulama Kodu"
+
+#~ msgid "Submit"
+#~ msgstr "Gönder"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Yorumunuz ılımlılık bekliyor "
+
+#~ msgid "Show Comments"
+#~ msgstr "Yorumları Göster"
+
+#~ msgid "Hide info"
+#~ msgstr "Bilgiyi sakla"
+
+#~ msgid "Restore"
+#~ msgstr "Restore"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Tam Ekran çıkın."
